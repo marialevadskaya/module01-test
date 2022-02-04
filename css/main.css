@@ -4,6 +4,7 @@ h1 {
 }
 .title {
     border: 1px solid red;
+    display: inline;
 }
 ul {
     color: green;
