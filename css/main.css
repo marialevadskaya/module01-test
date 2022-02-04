@@ -2,6 +2,9 @@ h1 {
     color: white;
     background-color: blue;
 }
+.title {
+    border: 1px solid red;
+}
 ul {
     color: green;
     background-color: yellow;
