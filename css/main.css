@@ -1,16 +1,20 @@
 h1 {
-    color: brown;
+    color: white;
+    background-color: blue;
 }
 ul {
     color: green;
+    background-color: yellow;
 }
 hr {
-    border-color: brown;
+    border-color: blue;
 }
 ol,
 a {
     color: purple;
+    background-color: yellow;
 }
 q {
-    color: green;
+    color: white;
+    background-color: blue;
 }
