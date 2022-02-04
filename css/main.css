@@ -1,13 +1,11 @@
 h1 {
     color: red;
-    font-size: 50px;
 }
 p {
-    font-size: 20px;
+    color: blue;
 }
 ul {
     color: green;
-    font-size: 20px;
 }
 hr {
     border-color: red;
@@ -15,9 +13,6 @@ hr {
 ol,
 a {
     color: purple;
-}
-a {
-    font-size: 20px;
 }
 q {
     color: green;
