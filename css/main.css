@@ -1,14 +1,11 @@
 h1 {
-    color: red;
-}
-p {
-    color: blue;
+    color: brown;
 }
 ul {
     color: green;
 }
 hr {
-    border-color: red;
+    border-color: brown;
 }
 ol,
 a {
