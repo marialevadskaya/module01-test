@@ -1,24 +1,21 @@
-h1 {
-    color: white;
-    background-color: blue;
+
+body {
+    font-family: 'Nunito Sans', sans-serif;
 }
-.title {
-    border: 1px solid red;
-    display: inline;
+h1 {
+    color: red;
+    font-weight: 900;
 }
 ul {
     color: green;
-    background-color: yellow;
 }
 hr {
-    border-color: blue;
+    border-color: red;
 }
 ol,
 a {
     color: purple;
-    background-color: yellow;
 }
 q {
-    color: white;
-    background-color: blue;
+    color: red;
 }
